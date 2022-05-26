@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Current working directory
+This project is about shhell basics
